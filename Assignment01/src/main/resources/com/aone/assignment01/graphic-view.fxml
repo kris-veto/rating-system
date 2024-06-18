@@ -11,43 +11,6 @@
 <?import javafx.scene.layout.VBox?>
 <?import javafx.scene.text.Font?>
 
-<!--?????????????????????-->
-<!--<VBox alignment="CENTER" prefHeight="501.0" prefWidth="600.0" style="-fx-background-color: #003366; -fx-background-radius: 10px;" xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.aone.assignment01.Controller">-->
-<!--<padding>-->
-<!--    <Insets bottom="20.0" left="20.0" right="20.0" top="20.0" />-->
-<!--</padding>-->
-<!--   <Label prefHeight="59.0" prefWidth="160.0" style="-fx-font-weight: 700;" text="xxxxxxxxxxxxxxxxxxxxxxxxxxxxx" textFill="WHITE">-->
-<!--      <font>-->
-<!--         <Font size="14.0" />-->
-<!--      </font>-->
-<!--   </Label>-->
-<!--    <BarChart fx:id="barChart" prefHeight="313.0" prefWidth="560.0">-->
-<!--        <xAxis>-->
-<!--            <CategoryAxis side="BOTTOM" tickLabelFill="WHITE" />-->
-<!--        </xAxis>-->
-<!--        <yAxis>-->
-<!--            <NumberAxis minorTickCount="1" side="LEFT" tickLabelFill="WHITE" tickLabelGap="0.0" tickLength="10.0" upperBound="5.0" />-->
-<!--        </yAxis>-->
-<!--    </BarChart>-->
-<!--   <HBox maxWidth="360.0" prefHeight="46.0" prefWidth="360.0">-->
-<!--      <children>-->
-<!--         <RadioButton fx:id="italyRadioButton" mnemonicParsing="false" prefHeight="18.0" prefWidth="20.0" text="Italy"  toggleGroup="$toggleGroup" />-->
-<!--         <Label prefHeight="18.0" prefWidth="25.0" text="Italy" textFill="WHITE" />-->
-<!--         <RadioButton fx:id="indiaRadioButton" mnemonicParsing="false" prefHeight="18.0" prefWidth="20.0"  toggleGroup="$toggleGroup" />-->
-<!--         <Label prefHeight="18.0" prefWidth="34.0" text="Ind" textFill="WHITE" />-->
-<!--         <RadioButton fx:id="japanRadioButton" mnemonicParsing="false" prefHeight="18.0" prefWidth="20.0"  toggleGroup="$toggleGroup" />-->
-<!--         <Label prefHeight="18.0" prefWidth="38.0" text="Jap" textFill="WHITE" />-->
-<!--         <RadioButton fx:id="mexicoRadioButton" mnemonicParsing="false" prefHeight="18.0" prefWidth="20.0"  toggleGroup="$toggleGroup" />-->
-<!--         <Label prefHeight="18.0" prefWidth="46.0" text="Mex" textFill="WHITE" />-->
-<!--      -->
-<!--      <Button fx:id="switchButton" prefHeight="26.0" prefWidth="114.0" text="Show Table View" />-->
-<!--      </children>-->
-<!--      <padding>-->
-<!--         <Insets top="20.0" />-->
-<!--      </padding>-->
-<!--   </HBox>-->
-<!--</VBox>-->
-
 <VBox alignment="CENTER" prefHeight="501.0" prefWidth="600.0" style="-fx-background-color: #003366; -fx-background-radius: 10px;" xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.aone.assignment01.Controller">
 
     <padding>
