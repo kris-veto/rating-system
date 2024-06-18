@@ -4,7 +4,7 @@ import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.SQLException;
 public class DatabaseConnector {
-    private static final String URL = "jdbc:mysql://192.168.100.116/ratingsdb";
+    private static final String URL = "jdbc:mysql://localhost/ratingsdb";
     private static final String USER = "root";
     private static final String PASS = "";
     public Connection connect() {
